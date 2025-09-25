@@ -1,0 +1,5 @@
+venv/          # ignore your virtual environment
+__pycache__/   # ignore Python cache files
+*.pt           # ignore PyTorch model weight files
+*.pkl          # ignore pickle files
+.DS_Store      # ignore macOS Finder files
